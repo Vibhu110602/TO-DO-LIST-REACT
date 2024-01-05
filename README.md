@@ -1,4 +1,4 @@
-![image](https://github.com/Vibhu110602/TO-DO-LIST-REACT/assets/86660806/129a8119-881c-411f-80dc-8de1cc708892)#TO-DO-LIST-REACT
+#TO-DO-LIST-REACT
 This is a simple To-Do List application built using React for the front end, Node.js for the backend, and PostgreSQL as the database. It allows users to create, update, and delete tasks in a to-do list.
 
 ## Preview
