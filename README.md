@@ -1,4 +1,4 @@
-#TO-DO-LIST-REACT
+# TO-DO-LIST-REACT
 This is a simple To-Do List application built using React for the front end, Node.js for the backend, and PostgreSQL as the database. It allows users to create, update, and delete tasks in a to-do list.
 
 ## Preview
